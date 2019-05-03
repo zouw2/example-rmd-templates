@@ -19,7 +19,7 @@ If you want to trial these templates within R Markdown, you can install the temp
 
 ```
 # install.packages("devtools")
-devtools::install_github("mikey-harper/example-rmd-templates")
+devtools::install_github("zouw2/example-rmd-templates")
 ```
 
 This will install the package `MyTemplates`. Once installed, they will be available within the R Markdown templates as shown below:
